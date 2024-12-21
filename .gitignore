@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+data/
+icons/
+algorithm.txt
+data.pt
+Face_Recognition_with_Pytorch.ipynb
